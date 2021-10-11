@@ -26,4 +26,8 @@ import matplotlib.pyplot as plt
 ```
 Download and run it, you will get a nice train img!
 
+## 4. Unit Hydrograph
+The theory can be found in [THIS LINK](https://www.meted.ucar.edu/hydro/basic_int/unit_hydrograph/print.php#page_1-1-0)
+
+
 ## To be continue...
