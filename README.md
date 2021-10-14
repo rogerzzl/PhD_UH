@@ -25,6 +25,7 @@ import matplotlib.pyplot as plt
 from matplotlib.pylab import rcParams
 ```
 - Method *calc()* to calculate:
+
 ```
     def calc(self):
         #Tp represents the Tl in Chapter11, means basin lag time
@@ -49,6 +50,7 @@ from matplotlib.pylab import rcParams
 ```
 
 - Method *plot()* to plot
+
 '''
     def plot(self):
         self.calc()
