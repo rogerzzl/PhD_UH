@@ -4,6 +4,10 @@
 
 ## THESE CODES MAINLY USE FOR CALCULATE UNIT HYDROGRAPH
 
+## ***Hydrographs***
+
+From [NEH Hydrology Ch. 16, Ex. 16-1](http://www.wcc.nrcs.usda.gov/ftpref/wntsc/H&H/NEHhydrology/ch16.pdf#page=15):
+
 
 ## 1.unitHydrograph.m
 
@@ -51,9 +55,6 @@ $ pip install pyflo
 
 # Examples
 
-## Hydrographs
-
-From [NEH Hydrology Ch. 16, Ex. 16-1](http://www.wcc.nrcs.usda.gov/ftpref/wntsc/H&H/NEHhydrology/ch16.pdf#page=15):
 
 ```python
 from pyflo import system
