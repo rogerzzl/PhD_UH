@@ -51,7 +51,7 @@ from matplotlib.pylab import rcParams
 
 - Method *plot()* to plot
 
-'''
+```
     def plot(self):
         self.calc()
         self.plot_t = np.array([0, (self.tr / 2 + self.tPR) - self.W50 / 3,
@@ -89,7 +89,7 @@ from matplotlib.pylab import rcParams
         plt.grid()
         plt.savefig('SUH_{}_{}_tr.png'.format(self.name,self.tR),
                     bbox_inches='tight')
-'''
+```
 
 ### example_UH_Mykonos.py
 
